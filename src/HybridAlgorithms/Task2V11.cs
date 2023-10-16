@@ -1,10 +1,8 @@
-using HybridAlgorithms.Common;
-
 namespace HybridAlgorithms;
 
 public class Task2V11
 {
-    public (SimpleDate, int) Calculate(int day, int month, int year)
+    public DayOfWeek Calculate(int date, int month)
     {
         throw new NotImplementedException();
     }

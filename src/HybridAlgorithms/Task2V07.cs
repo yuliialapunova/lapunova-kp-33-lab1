@@ -1,8 +1,8 @@
 namespace HybridAlgorithms;
 
-public class Task2V3
+public class Task2V07
 {
-    public (int days, int years) Calculate(
+    public int Calculate(
         int startDate, int endDate,
         int startMonth, int endMonth,
         int startYear, int endYear

@@ -1,8 +1,8 @@
 namespace HybridAlgorithms;
 
-public class Task2V2
+public class Task2V03
 {
-    public List<int> Calculate(int digitCount)
+    public int Calculate(int year)
     {
         throw new NotImplementedException();
     }

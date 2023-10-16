@@ -2,9 +2,9 @@ using HybridAlgorithms.Common;
 
 namespace HybridAlgorithms;
 
-public class Task2V1
+public class Task2V05
 {
-    public List<SimpleDate> Calculate(int year)
+    public (SimpleDate, int) Calculate(int day, int month, int year)
     {
         throw new NotImplementedException();
     }

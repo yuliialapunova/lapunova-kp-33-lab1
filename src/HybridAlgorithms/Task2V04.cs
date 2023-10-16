@@ -1,8 +1,8 @@
 namespace HybridAlgorithms;
 
-public class Task2V5
+public class Task2V04
 {
-    public DayOfWeek Calculate(int date, int month)
+    public List<int> Calculate(int n)
     {
         throw new NotImplementedException();
     }
